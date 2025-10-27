@@ -1,0 +1,36 @@
+[
+{
+"id": 1,
+"name": "Sample University",
+"location": "Seoul, South Korea",
+"students_profile": "Undergraduate 12,000; International 10%",
+"campus": "Urban campus with modern facilities",
+"system": "Semester-based, 4-year undergraduate",
+"strengths": ["Computer Science", "Research Labs", "Industry ties"],
+"weaknesses": ["High competition for scholarship"],
+"programs_of_interest": ["Computer Science", "Data Science"],
+"scholarships": "Merit-based scholarships up to 50% tuition",
+"internships": "Strong internship pipeline with domestic tech firms",
+"admission_requirements": "High school transcript, essay, recommendations, English proficiency",
+"opportunities_challenges": "Great industry connections / competitive environment",
+"website": "https://www.sampleuniv.edu",
+"contact": "admission@sampleuniv.edu"
+},
+{
+"id": 2,
+"name": "Global Tech College",
+"location": "Toronto, Canada",
+"students_profile": "Undergraduate 8,500; International 25%",
+"campus": "Green campus with cooperative education (co-op)",
+"system": "Quarter system, co-op options",
+"strengths": ["Co-op program", "Applied research", "Diverse student body"],
+"weaknesses": ["Higher living costs in city center"],
+"programs_of_interest": ["Computer Engineering", "AI & ML"],
+"scholarships": "Entrance scholarships for high-achieving international students",
+"internships": "Paid co-op placements with partner companies",
+"admission_requirements": "High school grades, personal statement, standardized tests optional",
+"opportunities_challenges": "Excellent experiential learning / cost of living",
+"website": "https://www.globaltech.edu",
+"contact": "admissions@globaltech.edu"
+}
+]
